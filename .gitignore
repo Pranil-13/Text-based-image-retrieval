@@ -1,0 +1,15 @@
+data/
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.pdf

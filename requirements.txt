@@ -1,0 +1,8 @@
+open-clip-torch
+chromadb
+Pillow
+torch
+torchvision
+tqdm
+numpy
+datasets
