@@ -40,6 +40,10 @@ glance/
 ## Setup
 
 ```bash
+# 0. Clone the repository
+git clone https://github.com/Pranil-13/Text-based-image-retrieval.git
+cd Text-based-image-retrieval
+
 # 1. Install dependencies
 pip install -r requirements.txt
 
