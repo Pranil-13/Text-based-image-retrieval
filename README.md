@@ -44,7 +44,10 @@ glance/
 git clone https://github.com/Pranil-13/Text-based-image-retrieval.git
 cd Text-based-image-retrieval
 
-# 1. Install dependencies
+# 1. Activate virtual environment and install dependencies
+python -m venv venv
+venv\Scripts\activate.bat (On Windows Command Prompt)
+venv\Scripts\activate.bat (On macOS and Linux)
 pip install -r requirements.txt
 
 # 2. Download the image dataset
