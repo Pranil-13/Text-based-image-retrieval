@@ -47,7 +47,7 @@ cd Text-based-image-retrieval
 # 1. Activate virtual environment and install dependencies
 python -m venv venv
 venv\Scripts\activate.bat (On Windows Command Prompt)
-venv\Scripts\activate.bat (On macOS and Linux)
+source venv/bin/activate (On macOS and Linux)
 pip install -r requirements.txt
 
 # 2. Download the image dataset
